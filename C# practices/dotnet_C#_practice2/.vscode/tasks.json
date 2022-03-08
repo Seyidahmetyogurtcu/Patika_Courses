@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/C# practices/ConsolePratik1/ConsolePratik1.csproj",
+                "${workspaceFolder}/dotnet_C#_practice2.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/C# practices/ConsolePratik1/ConsolePratik1.csproj",
+                "${workspaceFolder}/dotnet_C#_practice2.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -33,7 +33,7 @@
                 "watch",
                 "run",
                 "--project",
-                "${workspaceFolder}/C# practices/ConsolePratik1/ConsolePratik1.csproj"
+                "${workspaceFolder}/dotnet_C#_practice2.csproj"
             ],
             "problemMatcher": "$msCompile"
         }

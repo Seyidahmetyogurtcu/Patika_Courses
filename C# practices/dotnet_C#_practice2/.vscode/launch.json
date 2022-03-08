@@ -9,9 +9,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/C# practices/ConsolePratik1/bin/Debug/net5.0/ConsolePratik1.dll",
+            "program": "${workspaceFolder}/bin/Debug/net5.0/dotnet_C#_practice2.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/C# practices/ConsolePratik1",
+            "cwd": "${workspaceFolder}",
             "console": "integratedTerminal",
             "stopAtEntry": false
         },
