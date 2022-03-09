@@ -31,7 +31,7 @@ namespace dotnet_C__practice9
             {
                 Console.WriteLine("Lütfen {0}",i+1);
             }
-            int toplam=0;
+            float toplam=0;
             foreach (var sayi in sayiDizisi)
             {
                 toplam+=sayi;
