@@ -18,7 +18,7 @@ namespace dotnet_C__practice8
             Console.WriteLine(toplam/sayi);
 
             char character='a';
-            while (character<'z')
+            while (character<='z')
             {
                 Console.WriteLine(character);
                 character++;
