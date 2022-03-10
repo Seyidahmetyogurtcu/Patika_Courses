@@ -30,9 +30,10 @@ namespace dotnet_C__practice9
             for(int i=0;i<diziUzunlugu;i++)
             {
                 Console.WriteLine("Lütfen {0}",i+1);
+                sayiDizisi[i]= int.Parse(Console.ReadLine());
             }
             float toplam=0;
-            foreach (var sayi in sayiDizisi)
+            foreach (float sayi in sayiDizisi)
             {
                 toplam+=sayi;
             }
