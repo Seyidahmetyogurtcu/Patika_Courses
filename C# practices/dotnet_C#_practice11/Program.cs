@@ -18,7 +18,7 @@ namespace dotnet_C__practice11
             ornek.EkranaYazdır(Convert.ToString(sonuc));
 
             int sonuc2 =ornek.ArttırVeTopla(ref a,ref b);
-            Console.WriteLine(sonuc);
+            Console.WriteLine(sonuc2);
 
         }
          static int Topla(int deger1, int deger2)
