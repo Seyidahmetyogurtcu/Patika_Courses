@@ -35,11 +35,11 @@ namespace dotnet_C__practice16
             
             foreach (var item in renkListesi)
             {
-                System.Console.WriteLine(renkListesi);         
+                System.Console.WriteLine(item);         
             }
             foreach (var item in sayiListesi)
             {              
-                System.Console.WriteLine(sayiListesi);
+                System.Console.WriteLine(item);
             }
 
             sayiListesi.ForEach(sayi=>System.Console.WriteLine(sayi));
